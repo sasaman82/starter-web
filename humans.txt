@@ -12,5 +12,10 @@ giggicio è o meglio
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+
 java developer
+
+
+devops engineer
+p
     jQuery, Modernizr
